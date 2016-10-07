@@ -1,0 +1,25 @@
+{
+  "name": "base64-node",
+  "version": "1.0.0",
+  "description": "Base64 encoding-decoding in NodeJS.",
+  "main": "base64.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahariaazam/base64-node.git"
+  },
+  "keywords": [
+    "base64",
+    "base64-encode",
+    "base64-decode",
+    "base64-node"
+  ],
+  "author": "Shaharia Azam <shaharia.azam@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shahariaazam/base64-node/issues"
+  },
+  "homepage": "https://github.com/shahariaazam/base64-node#readme"
+}
